@@ -1,4 +1,4 @@
-def is_prime2(n):
+def is_prime(n):
     
     x = True
 
